@@ -1,1 +1,5 @@
+*.yaml
 *.yml
+*.*~
+\#*\#
+oauth_script.rb
