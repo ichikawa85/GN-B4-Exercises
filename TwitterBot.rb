@@ -44,9 +44,11 @@ class TwitterBot
         "user_name" => tr["user"]["name"],
         "message" => tr["text"],
         "time" => tr["created_at"] }
+
     end
 
-    return tweets
+    return tweets 
+    
   end
 
 end
